@@ -1,25 +1,25 @@
 <p align="center">
-   <img src="https://media.giphy.com/media/lLlG6lAGL36SdhTqcE/giphy.gif" alt="motivacao" width="280"/>
+   <img src="https://media.giphy.com/media/lLlG6lAGL36SdhTqcE/giphy.gif" alt="crono" width="280"/>
 </p>
 
 <p align="right">
-   <img src="https://media.giphy.com/media/V6VN30xiApzSa8Slt2/giphy.gif" alt="motivacao" width="130"/>
+   <img src="https://media.giphy.com/media/V6VN30xiApzSa8Slt2/giphy.gif" alt="crono" width="130"/>
 </p>
 
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/fortune-cookie?color=eb4034">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/crono?color=eb4034">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/fortune-cookie?color=eb4034">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/crono?color=eb4034">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/fortune-cookie?color=eb4034">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/crono?color=eb4034">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/fortune-cookie?color=eb4034" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/crono?color=eb4034" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/fortune-cookie?color=eb4034" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/crono?color=eb4034" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/fortune-cookie?color=eb4034" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/crono?color=eb4034" /> 
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 <h4 align="center"> Cronometro </h4>
 
 <p align="center">
-  <img src="./src/crono.gif" alt="Money" />
+  <img src="./src/crono.gif" alt="crono" />
   
 </p>
 
@@ -78,9 +78,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/fortune-cookie.git
+$ git clone https://github.com/agostinhomarcia/crono.git
 # Access
-$ cd fortune-cookie
+$ cd crono
 # Install dependencies
 $ expo install
 # Run the project
@@ -95,7 +95,7 @@ This project is under the [MIT license](./License).
 Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 <p align="center">
-   <img src="https://media.giphy.com/media/chKfsQfFEgDSUWgKfD/giphy.gif" alt="motivacao" width="450"/>
+   <img src="https://media.giphy.com/media/chKfsQfFEgDSUWgKfD/giphy.gif" alt="crono" width="450"/>
 </p>
 
 &#xa0;
